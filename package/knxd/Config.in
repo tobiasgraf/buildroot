@@ -1,0 +1,6 @@
+config BR2_PACKAGE_HOMEEREG
+        bool "knxd"
+        help
+          knxd 
+
+          https://github.com/knxd/knxd
